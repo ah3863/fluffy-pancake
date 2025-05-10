@@ -1,1 +1,4 @@
-# fluffy-pancake
+# ADAFinal
+A Mapbox-Powered Exploration of Redlining, Community Reinvestment and Climate Risk in New York City
+
+This interactive map, powered by Mapbox GL JS, explores the historical impact of redlining, the Community Reinvestment Act (CRA) investment areas, and the future climate vulnerabilities facing New York City communities. The map can toggle between different layers for an experience that shows economic history and future possible environmental/social risks. It also has a search feature to allow users to explore exact addresses within NYC. I used historical redlining data that clearly shows the grading system, by neighborhood, with grade A being the most advantaged communities, and grade D being the least advantaged communities. The CD Eligible layer shows the areas in NYC that are currently considered for community development grant/investment opportunities. The FSHRI looks at susceptibility to harm and capacity to recover from flooding, where 1 is very capable of recovery, and 5 is not capable of recovery. I also included a collapsible Climate Risk Resources section with links to NYC OpenData and the NYC Resiliency Plan. 
